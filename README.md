@@ -4,7 +4,7 @@
 
 The goal is to help people remember when they started working with QGIS software using the splash screen and corresponding release date
 
-## The methodoly
+## The methodology
 
 To reproduce, you will need [imagemagick](https://www.imagemagick.org) software.
 
