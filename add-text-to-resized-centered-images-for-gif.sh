@@ -1,0 +1,32 @@
+cd output-centered
+convert qgis_version_0.1.png -background transparent -fill black -font Corsiva -pointsize 36 label:'02/2004' -gravity Center -append ../output-centered-label/qgis_version_0.1.png
+convert qgis_version_0.2.png -background transparent -fill black -font Corsiva -pointsize 36 label:'04/2004' -gravity Center -append ../output-centered-label/qgis_version_0.2.png
+convert qgis_version_0.3.png -background transparent -fill black -font Corsiva -pointsize 36 label:'05/2004' -gravity Center -append ../output-centered-label/qgis_version_0.3.png
+convert qgis_version_0.4.png -background transparent -fill black -font Corsiva -pointsize 36 label:'07/2004' -gravity Center -append ../output-centered-label/qgis_version_0.4.png
+convert qgis_version_0.5.png -background transparent -fill black -font Corsiva -pointsize 36 label:'10/2004' -gravity Center -append ../output-centered-label/qgis_version_0.5.png
+convert qgis_version_0.6.png -background transparent -fill black -font Corsiva -pointsize 36 label:'12/2004' -gravity Center -append ../output-centered-label/qgis_version_0.6.png
+convert qgis_version_0.7.png -background transparent -fill black -font Corsiva -pointsize 36 label:'09/2005' -gravity Center -append ../output-centered-label/qgis_version_0.7.png
+convert qgis_version_0.8.png -background transparent -fill black -font Corsiva -pointsize 36 label:'01/2007' -gravity Center -append ../output-centered-label/qgis_version_0.8.png
+convert qgis_version_0.9.png -background transparent -fill black -font Corsiva -pointsize 36 label:'10/2007' -gravity Center -append ../output-centered-label/qgis_version_0.9.png
+convert qgis_version_0.10.png -background transparent -fill black -font Corsiva -pointsize 36 label:'05/2008' -gravity Center -append ../output-centered-label/qgis_version_0.10.png
+convert qgis_version_0.11.png -background transparent -fill black -font Corsiva -pointsize 36 label:'07/2008' -gravity Center -append ../output-centered-label/qgis_version_0.11.png
+convert qgis_version_1.0.png -background transparent -fill black -font Corsiva -pointsize 36 label:'01/2009' -gravity Center -append ../output-centered-label/qgis_version_1.0.png
+convert qgis_version_1.1.png -background transparent -fill black -font Corsiva -pointsize 36 label:'05/2009' -gravity Center -append ../output-centered-label/qgis_version_1.1.png
+convert qgis_version_1.2.png -background transparent -fill black -font Corsiva -pointsize 36 label:'09/2009' -gravity Center -append ../output-centered-label/qgis_version_1.2.png
+convert qgis_version_1.3.png -background transparent -fill black -font Corsiva -pointsize 36 label:'09/2009' -gravity Center -append ../output-centered-label/qgis_version_1.3.png
+convert qgis_version_1.4.png -background transparent -fill black -font Corsiva -pointsize 36 label:'01/2010' -gravity Center -append ../output-centered-label/qgis_version_1.4.png
+convert qgis_version_1.5.png -background transparent -fill black -font Corsiva -pointsize 36 label:'06/2010' -gravity Center -append ../output-centered-label/qgis_version_1.5.png
+convert qgis_version_1.6.png -background transparent -fill black -font Corsiva -pointsize 36 label:'11/2010' -gravity Center -append ../output-centered-label/qgis_version_1.6.png
+convert qgis_version_1.7.png -background transparent -fill black -font Corsiva -pointsize 36 label:'06/2011' -gravity Center -append ../output-centered-label/qgis_version_1.7.png
+convert qgis_version_1.8.png -background transparent -fill black -font Corsiva -pointsize 36 label:'06/2012' -gravity Center -append ../output-centered-label/qgis_version_1.8.png
+convert qgis_version_2.0.png -background transparent -fill black -font Corsiva -pointsize 36 label:'09/2013' -gravity Center -append ../output-centered-label/qgis_version_2.0.png
+convert qgis_version_2.2.png -background transparent -fill black -font Corsiva -pointsize 36 label:'02/2014' -gravity Center -append ../output-centered-label/qgis_version_2.2.png
+convert qgis_version_2.4.png -background transparent -fill black -font Corsiva -pointsize 36 label:'06/2014' -gravity Center -append ../output-centered-label/qgis_version_2.4.png
+convert qgis_version_2.6.png -background transparent -fill black -font Corsiva -pointsize 36 label:'11/2014' -gravity Center -append ../output-centered-label/qgis_version_2.6.png
+convert qgis_version_2.8.png -background transparent -fill black -font Corsiva -pointsize 36 label:'02/2015' -gravity Center -append ../output-centered-label/qgis_version_2.8.png
+convert qgis_version_2.10.png -background transparent -fill black -font Corsiva -pointsize 36 label:'06/2015' -gravity Center -append ../output-centered-label/qgis_version_2.10.png
+convert qgis_version_2.12.png -background transparent -fill black -font Corsiva -pointsize 36 label:'10/2015' -gravity Center -append ../output-centered-label/qgis_version_2.12.png
+convert qgis_version_2.14.png -background transparent -fill black -font Corsiva -pointsize 36 label:'02/2016' -gravity Center -append ../output-centered-label/qgis_version_2.14.png
+convert qgis_version_2.16.png -background transparent -fill black -font Corsiva -pointsize 36 label:'07/2016' -gravity Center -append ../output-centered-label/qgis_version_2.16.png
+convert qgis_version_2.18.png -background transparent -fill black -font Corsiva -pointsize 36 label:'10/2016' -gravity Center -append ../output-centered-label/qgis_version_2.18.png
+cd ..
