@@ -25,7 +25,12 @@ To reproduce, you will need [imagemagick](https://www.imagemagick.org) software.
 The result files are:
 
 * [qgis-splash-screens-with-text.gif](qgis-splash-screens-with-text.gif)
+
+  ![](https://rawgit.com/webgeodatavore/qgis-splash-screens-birthday/master/qgis-splash-screens-with-text.gif)
+
 * [qgis-splash-screens-no-text.gif](qgis-splash-screens-no-text.gif)
+
+  ![](https://rawgit.com/webgeodatavore/qgis-splash-screens-birthday/master/qgis-splash-screens-no-text.gif)
 
 ## Improvements & issues
 
