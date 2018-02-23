@@ -29,4 +29,5 @@ convert qgis_version_2.12.png -background transparent -fill black -font Corsiva 
 convert qgis_version_2.14.png -background transparent -fill black -font Corsiva -pointsize 36 label:'02/2016' -gravity Center -append ../output-centered-label/qgis_version_2.14.png
 convert qgis_version_2.16.png -background transparent -fill black -font Corsiva -pointsize 36 label:'07/2016' -gravity Center -append ../output-centered-label/qgis_version_2.16.png
 convert qgis_version_2.18.png -background transparent -fill black -font Corsiva -pointsize 36 label:'10/2016' -gravity Center -append ../output-centered-label/qgis_version_2.18.png
+convert qgis_version_3.0.png -background transparent -fill black -font Corsiva -pointsize 36 label:'02/2018' -gravity Center -append ../output-centered-label/qgis_version_3.0.png
 cd ..
