@@ -34,5 +34,9 @@ convert qgis_version_3.2.png -background transparent -fill black -font Corsiva -
 convert qgis_version_3.4.png -background transparent -fill black -font Corsiva -pointsize 36 label:'10/2018' -gravity Center -append ../output-centered-label/qgis_version_3.4.png
 convert qgis_version_3.6.png -background transparent -fill black -font Corsiva -pointsize 36 label:'02/2019' -gravity Center -append ../output-centered-label/qgis_version_3.6.png
 convert qgis_version_3.8.png -background transparent -fill black -font Corsiva -pointsize 36 label:'06/2019' -gravity Center -append ../output-centered-label/qgis_version_3.8.png
-convert qgis_version_3.10.png -background transparent -fill black -font Corsiva -pointsize 36 label:'02/2020' -gravity Center -append ../output-centered-label/qgis_version_3.10.png
+convert qgis_version_3.10.png -background transparent -fill black -font Corsiva -pointsize 36 label:'10/2019' -gravity Center -append ../output-centered-label/qgis_version_3.10.png
+convert qgis_version_3.12.png -background transparent -fill black -font Corsiva -pointsize 36 label:'02/2020' -gravity Center -append ../output-centered-label/qgis_version_3.12.png
+convert qgis_version_3.14.png -background transparent -fill black -font Corsiva -pointsize 36 label:'06/2020' -gravity Center -append ../output-centered-label/qgis_version_3.14.png
+convert qgis_version_3.16.png -background transparent -fill black -font Corsiva -pointsize 36 label:'10/2020' -gravity Center -append ../output-centered-label/qgis_version_3.16.png
+convert qgis_version_3.18.png -background transparent -fill black -font Corsiva -pointsize 36 label:'02/2021' -gravity Center -append ../output-centered-label/qgis_version_3.18.png
 cd ..
